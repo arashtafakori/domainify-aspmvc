@@ -6,14 +6,14 @@
     public class HttpServiceBasicActionsName
     {
         /// <summary>
-        /// Represents the "Archive" action name.
+        /// Represents the "Delete" action name.
         /// </summary>
-        public const string Archive = "Archive";
+        public const string Delete = "Delete";
 
         /// <summary>
-        /// Represents the "CheckTheItemForArchiving" action name.
+        /// Represents the "CheckTheItemForDeleting" action name.
         /// </summary>
-        public const string CheckTheItemForArchiving = "CheckTheItemForArchiving";
+        public const string CheckTheItemForDeleting = "CheckTheItemForDeleting";
 
         /// <summary>
         /// Represents the "Restore" action name.
